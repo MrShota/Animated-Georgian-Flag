@@ -1,2 +1,2 @@
 # Animated-Georgian-Flag
-Georgian Animated Flag
+https://mrshota.github.io/Animated-Georgian-Flag/
